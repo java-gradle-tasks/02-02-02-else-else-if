@@ -6,7 +6,7 @@ Határozza meg a megadott metódussal egy kör és egy pont viszonyát. Használ
 
 Lehetséges viszonyok: A pont a körben van. A pont a kör vanalon van. A pont a körön kívül van.
 
-### a)feladat
+### b) feladat
 Határozza meg a megadott metódussal két kör és egy pont viszonyát. Használja a kör egyenletét a viszony megállapítására. Használja a már megírt kör és pont osztályokat és a viszonyt leíró osztályt!
 
 
